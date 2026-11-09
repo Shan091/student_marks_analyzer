@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const int PASS_MARK = 50;
+const int PASS_MARK = 40;
 
 int getStudentCount()
 {
